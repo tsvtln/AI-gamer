@@ -42,8 +42,19 @@ from the base directory of the package.
 
 
 Note: The above install script will install the following packages via apt-get:
-build-essential, gcc, g++, cmake, curl, libreadline-dev, git-core, libjpeg-dev,
-libpng-dev, ncurses-dev, imagemagick, unzip
+
+    build-essential
+    gcc
+    g++
+    cmake
+    curl
+    libreadline-dev
+    git-core
+    libjpeg-dev
+    libpng-dev
+    ncurses-dev
+    imagemagick
+    unzip
 
 
 
