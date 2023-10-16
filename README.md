@@ -1,6 +1,7 @@
 # AI-gamer
 
 Dependencies:
+
     * LuaJIT and Torch 7.0
     * nngraph
     * Xitari (fork of the Arcade Learning Environment (Bellemare et al., 2013))
