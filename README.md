@@ -27,7 +27,8 @@ and installation instructions can be found in
 http://docs.nvidia.com/cuda/cuda-getting-started-guide-for-linux
 
 
-To train DQN on Atari games, the following components must be installed:
+To train the bot on Atari games, the following components must be installed:
+
     * LuaJIT and Torch 7.0
     * nngraph
     * Xitari
