@@ -1,5 +1,7 @@
 # AI-gamer
 
+Bot is build on the base of DQN: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
 Dependencies:
 
     * LuaJIT and Torch 7.0
